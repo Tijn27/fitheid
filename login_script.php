@@ -31,7 +31,7 @@
             switch ($record["userrole"]){
                 case 'klant':
                     echo '<br><br><div class="alert alert-success" role="alert">Uw bent ingelogd en word nu doorgestuurd</div>';
-                    header("Refresh: 3; ./index.php?content=home");
+                    header("Refresh: 3; ./index.php?content=fit");
                 break;
                 case 'admin':
                     echo '<br><br><div class="alert alert-success" role="alert">Uw bent ingelogd als administrator en word nu doorgestuurd</div>';

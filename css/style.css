@@ -111,3 +111,32 @@ footer{
   background-color: red;
   border: red;
 }   
+
+
+/* /////////////////////////////////// */
+#licht{
+  background-color: #adff2fd4;
+}
+
+#gemmideld{
+  background-color: #e6e653db;
+}
+
+#zwaar{
+  background-color: #ff0000ba;
+}
+
+#img_card{
+  width: 100%;
+  margin-bottom: 15px;
+}
+#calorien{
+  font-size: 200px;
+  color: greenyellow;
+  margin-left: auto ;
+  margin-right: auto ;
+  border-bottom: 5px solid red;
+}
+#klein{
+  font-size: 50px;
+}
